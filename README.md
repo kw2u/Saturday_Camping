@@ -5,3 +5,4 @@ Saturday_Camping
 
 [The Map](https://goo.gl/maps/xMuuD)
 
+![The Map](https://raw.githubusercontent.com/Adron/Saturday_Camping/master/images/Map.png)
