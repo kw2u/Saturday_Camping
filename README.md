@@ -1,11 +1,7 @@
 Cascadia JS Saturday Camping
 ================
 
-<div style="float:right;">
-
 [![The Map](https://raw.githubusercontent.com/Adron/Saturday_Camping/master/images/cascaidajs.jpg)](http://2014.cascadiajs.com/)
-
-</div>
 
 (Not Cascadia JS Sponsored, we're going rogue, anybody can join in!)
 
