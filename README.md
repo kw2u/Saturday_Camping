@@ -1,6 +1,10 @@
 Cascadia JS Saturday Camping
 ================
-[![The Map](https://raw.githubusercontent.com/Adron/Saturday_Camping/master/images/cascaidajs.jpg)](http://2014.cascadiajs.com/)
+
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+	[![The Map](https://raw.githubusercontent.com/Adron/Saturday_Camping/master/images/cascaidajs.jpg)](http://2014.cascadiajs.com/)
+</div>
+
 (Not Cascadia JS Sponsored, we're going rogue, anybody can join in!)
 
 ...at @NVC_Exploder's place! Also, if you just want to come hang out for the ride & enjoy the great company, join us! Scroll past the map for the proposed schedule. There's just three easy steps to attend:
