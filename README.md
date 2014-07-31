@@ -1,4 +1,4 @@
-Saturday_Camping
+Saturday Camping
 ================
 
 ...at @NVC_Exploder's place! Also, if you just want to come hang out for the ride & enjoy the great company, join us! Scroll past the map for the proposed schedule. There's just three easy steps to attend:
